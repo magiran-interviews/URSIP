@@ -12,6 +12,12 @@
 
 1. Активировать виртуальное окружение
 
+1. Клонировать репозиторий
+
+    ```bash
+    git clone git@github.com:magiran-interviews/URSIP.git
+    ```
+
 1. Установить зависимости
     ```bash
     pip install -r requirements.txt
